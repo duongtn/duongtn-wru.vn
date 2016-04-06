@@ -1,0 +1,6 @@
+{
+    "name": "tranduong/phinx",
+    "require": {
+        "monolog/monolog": "^1.18"
+    }
+}
